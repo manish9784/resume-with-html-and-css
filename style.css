@@ -1,0 +1,19 @@
+.outer{
+
+width: 650px;
+height: 650px;
+border: 1px solid black;
+margin: 0px auto;
+}
+*{ padding: 1px;
+    margin: 4px;
+
+}
+.outer h1{
+text-align: center;
+
+}
+.outer p{
+
+
+}
